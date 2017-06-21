@@ -1,0 +1,14 @@
+node_modules/
+target/
+application.pid
+src/main/webapp/assets/js/bower-components
+src/main/webapp/assets/plugins-bower
+src/main/webapp/dist
+.idea
+*.iml
+**/*.iml
+logs
+**/logs
+**/*.pid
+attachments
+**/*.db
